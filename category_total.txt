@@ -1,0 +1,5 @@
+CarDriving: $2000
+Exhibition-Games: $400
+Food: $400
+Grocery: $500
+MotionCut: $200
